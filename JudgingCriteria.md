@@ -5,7 +5,7 @@ Teams will be judged on these four criteria. Judges will weigh the criteria equa
 - **Social Good:** Does the project address a social or civic problem? Does the project have an educational or interactive component that is likely to have some kind of impact on the problem it is trying to address?
 
 - **Technology:**  How technically impressive was the project? Was the technical problem the team tackled difficult? Did it use a particularly clever technique, or did it use many different components? Did the technology involved make you go "Wow"? 
-- **Design: ** Did the team put thought into the user interface? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
+- **Design:** Did the team put thought into the user interface? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
 - **Completion:** Did the team achieve everything they wanted? Is the team satisfied with what was accomplished in the 24 hours? 
 
 - **Learning:**  Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? Did the project go outside of their in-school curriculum? Did non-technical members learn any coding skills?
