@@ -8,9 +8,9 @@ Some common implementations include webpages, mobile apps, web-apps, games and l
 
 ### What if I don't know how to code?
 
-That's not a problem. You'll hear us say time and time again that hackathons are meant for learning. If you've never coded before it's a great opportunity to learn a few new things. You'll be surrounded by experienced coders and will likely be teamed up with some so feel free to ask questions. While you might think this doesn't help your team it can actually be very helpful since learning is a key part of the [judging criteria](https://github.com/DSU-CS-Club/CodeSwarm2020/blob/master/JudgingCriteria.md). 
+That's not a problem. You'll hear us say time and time again that hackathons are meant for learning. If you've never coded before it's a great opportunity to learn a few new things. You'll be surrounded by experienced coders and will likely be teamed up with some so feel free to ask questions. While you might think this doesn't help your team it can actually be very helpful since learning is a key part of the [judging criteria](https://github.com/DSU-CS-Club/CodeSwarm2022/blob/master/JudgingCriteria.md). 
 
 ### What to do if we get stuck?
 
-Members of the DSU Computer Science Club board will be available to assist with troubleshooting technical issues that you may run into. Our sponsor, JP Morgan Chase, will also be providing mentors at certain times during the event to assist teams who may be running into issues.
+Members of the DSU Computer Science Club board will be available to assist with troubleshooting technical issues that you may run into. Our sponsor, Capital One, will also be providing mentors at certain times during the event to assist teams who may be running into issues.
 
